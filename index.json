@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-lsp",
+  "versions": [
+    {
+      "commit": "c6564bd4e6a3f5d616957f2d549cb1c591160a52",
+      "tag": "v0.0.4",
+      "parsed_at": "2026-10-11T20:37:07.542326+00:00"
+    }
+  ]
+}
