@@ -1,0 +1,7 @@
+[2026-10-11T20:35:46Z] === AST ITERATION 1 START | repo=pydantic/logfire-lsp sha=c6564bd4 ===
+[2026-10-11T20:35:46Z] [iter=1] PHASE START: ast repo=pydantic/logfire-lsp sha=c6564bd4
+[2026-10-11T20:35:46Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T20:35:47Z] [iter=1] AST chunks built count=1 triples=12794
+[2026-10-11T20:35:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c6564bd4e6a3f5d616957f2d549cb1c591160a52/.complete
+[2026-10-11T20:35:47Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-11T20:35:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
