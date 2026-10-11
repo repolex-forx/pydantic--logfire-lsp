@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-lsp/commit/c6564bd4e6a3f5d616957f2d549cb1c591160a52",
       "git:hexsha": "c6564bd4e6a3f5d616957f2d549cb1c591160a52",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.0.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.4",
+      "repolex:parsedAt": "2026-10-11T20:37:07.512096+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-lsp/commit/11f17ffa46a530ecf4a6dfd5e272703e80adfca3",
