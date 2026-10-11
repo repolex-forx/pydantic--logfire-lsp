@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "logfire-lsp",
+  "versions": [
+    {
+      "commit": "c6564bd4e6a3f5d616957f2d549cb1c591160a52",
+      "parsed_at": "2026-10-11T20:34:42.538171+00:00",
+      "tag": "v0.0.4",
+      "filetree": "filetree/c6564bd4e6a3f5d616957f2d549cb1c591160a52.nq.gz",
+      "blobs": [
+        "blob/e825ad51621c5e34d370ba64f13f6854d89456a6.nq.gz",
+        "blob/102a47308863bb64db8a6780d6d3c08984081f5a.nq.gz",
+        "blob/0c64d0e55c1a56a095481f014a84d44a429511bd.nq.gz",
+        "blob/9c647868046850545f7d9b4ad8acbe4e47e030c8.nq.gz",
+        "blob/fe14e107269215b91e6d2a783d76616e34d82b3d.nq.gz",
+        "blob/d342fc8cb9a5494b9f56726dcdafb14b69e7fe90.nq.gz",
+        "blob/96f2bbb3b547e68c7ef14ead4c553d453b5a3a25.nq.gz",
+        "blob/0ac860dff27d7bdaa04741fc5134c1587b6f8ebe.nq.gz",
+        "blob/cc54aafd530f641bbb09d5a6859f3666251882af.nq.gz",
+        "blob/0da3600d61a1df7aa2c4b2bb682880f50db83e57.nq.gz",
+        "blob/81f0fdeccf66f1b74184b96bd53b64be1b903aae.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/013c9d836fc567b5410d75f765f6559c5c359cbc.nq.gz",
+        "blob/13d1f14e22330517ef4f27b04d7ba974ade0508e.nq.gz",
+        "blob/db195fcbb9524f3710ae99a2e388e48877dc17e5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
